@@ -1,7 +1,7 @@
 # Flappy_Bird
 
-A Flappy Bird game made using <strong>Javascript</strong>.
-It's a Web Based Application made to play and have fun. <br>
+A Flappy Bird Game made using <strong>Javascript</strong>.<br>
+It's a Web Based Application and the purpose of this game is to play and have fun. <br>
 The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
 
 The idea of the game is to flap your bird through as many pipes as possible.<br>
@@ -22,3 +22,9 @@ git clone https://github.com/ruhirani011/BirdGame
 
 
 ![](images/flpbird.jpg)
+
+<h3>Technologies Used :</h3>
+
+- HTML
+- CSS
+- JAVASCRIPT
