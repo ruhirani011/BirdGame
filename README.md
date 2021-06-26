@@ -5,7 +5,7 @@ It's a Web Based Application and the purpose of this game is to play and have fu
 In this Game the player controls a bird, attempting to fly between columns of green pipes without hitting them.<br>
 The idea of the game is to flap your bird through as many pipes as possible.<br>
 The bird briefly flaps upward each time the player presses the key , if the key is not pressed, the bird falls due to gravity.<br>
-So, Help the bird to flutter and get as far as possible. # avoid obstacles. #
+So, Help the bird to flutter and get as far as possible. # avoid obstacles #
 <br>
 <br>
 
