@@ -15,7 +15,7 @@ So, Help the bird to flutter and get as far as possible. # avoid obstacles #
 
 ```bash
 
-git clone https://github.com/ruhirani011/BirdGame
+$ git clone https://github.com/ruhirani011/BirdGame
 
  ```
 OR download as a zip file and extract.
