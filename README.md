@@ -42,7 +42,7 @@ OR download as a zip file and extract.
 - CSS
 - JAVASCRIPT
 
-## License :
+<!-- ## License : -->
  
-[MIT](https://choosealicense.com/licenses/mit/) <br>
-[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE.txt)
+<!-- [MIT](https://choosealicense.com/licenses/mit/) <br>
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE.txt) -->
